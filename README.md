@@ -1,0 +1,2 @@
+# newsnowflake-terraform-repo
+myrepo
